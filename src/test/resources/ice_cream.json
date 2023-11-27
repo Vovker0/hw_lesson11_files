@@ -1,0 +1,50 @@
+{
+    "brandName": "Haagen-Dazs",
+    "productName": "Pineapple coconut ice cream",
+    "package": "cup",
+    "volume": 414,
+    "volumeUnits": "ml",
+    "ingredients": [
+        "Cream",
+        "Skim milk",
+        "Cane sugar",
+        "Pineapple",
+        "Egg yolks",
+        "Natural flavor",
+        "Rum",
+        "Salt"
+        ],
+    "nutritionFacts": {
+        "servingSize": 124,
+        "servingSizeUnits": "g",
+        "calories": 290,
+        "fat": {
+            "unitMeasure": "g",
+            "totalFat": 16.0,
+            "saturatedFat": 10.0,
+            "transFat": 0.5
+            },
+        "carbohydrate": {
+            "unitMeasure": "g",
+            "totalCarbohydrate": 32.0,
+            "dietaryFiber": 0.0,
+            "totalSugars": 31.0,
+            "inclAddedSugars": 24.0
+            },
+        "protein": {
+            "unitMeasure": "g",
+            "protein": 4.0
+            },
+        "minerals": {
+            "unitMeasure": "mg",
+            "sodium": 55.0,
+            "calcium": 120.0,
+            "potassium": 170.0,
+            "iron": 0.1
+            },
+        "vitamins": {
+            "unitMeasure": "mcg",
+            "vitaminD": 0.6
+            }
+        }
+}
